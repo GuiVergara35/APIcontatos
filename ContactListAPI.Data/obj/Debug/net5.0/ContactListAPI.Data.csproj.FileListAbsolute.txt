@@ -1,0 +1,15 @@
+C:\DotNet\Udemy\ContatoLista\ContactListAPI.Data\bin\Debug\net5.0\ContactListAPI.Data.deps.json
+C:\DotNet\Udemy\ContatoLista\ContactListAPI.Data\bin\Debug\net5.0\ContactListAPI.Data.dll
+C:\DotNet\Udemy\ContatoLista\ContactListAPI.Data\bin\Debug\net5.0\ref\ContactListAPI.Data.dll
+C:\DotNet\Udemy\ContatoLista\ContactListAPI.Data\bin\Debug\net5.0\ContactListAPI.Data.pdb
+C:\DotNet\Udemy\ContatoLista\ContactListAPI.Data\bin\Debug\net5.0\ContactListAPI.Domain.dll
+C:\DotNet\Udemy\ContatoLista\ContactListAPI.Data\bin\Debug\net5.0\ContactListAPI.Domain.pdb
+C:\DotNet\Udemy\ContatoLista\ContactListAPI.Data\obj\Debug\net5.0\ContactListAPI.Data.csproj.AssemblyReference.cache
+C:\DotNet\Udemy\ContatoLista\ContactListAPI.Data\obj\Debug\net5.0\ContactListAPI.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNet\Udemy\ContatoLista\ContactListAPI.Data\obj\Debug\net5.0\ContactListAPI.Data.AssemblyInfoInputs.cache
+C:\DotNet\Udemy\ContatoLista\ContactListAPI.Data\obj\Debug\net5.0\ContactListAPI.Data.AssemblyInfo.cs
+C:\DotNet\Udemy\ContatoLista\ContactListAPI.Data\obj\Debug\net5.0\ContactListAPI.Data.csproj.CoreCompileInputs.cache
+C:\DotNet\Udemy\ContatoLista\ContactListAPI.Data\obj\Debug\net5.0\ContactListAPI.Data.csproj.CopyComplete
+C:\DotNet\Udemy\ContatoLista\ContactListAPI.Data\obj\Debug\net5.0\ContactListAPI.Data.dll
+C:\DotNet\Udemy\ContatoLista\ContactListAPI.Data\obj\Debug\net5.0\ref\ContactListAPI.Data.dll
+C:\DotNet\Udemy\ContatoLista\ContactListAPI.Data\obj\Debug\net5.0\ContactListAPI.Data.pdb
