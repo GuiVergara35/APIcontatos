@@ -19,7 +19,7 @@ namespace ContactListAPI.Data.Repositories.Base
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseMySql("Server=localhost;Database=contactlist;Uid=root;Pwd=!Mos_Dge7*", new MySqlServerVersion(new Version(8, 0, 26)));
+                optionsBuilder.UseMySql("Server=localhost;Database=contactlist;Uid=root;Pwd=******", new MySqlServerVersion(new Version(8, 0, 26)));
             }
         }
 
